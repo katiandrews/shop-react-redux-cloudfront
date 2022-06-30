@@ -53,6 +53,9 @@
     "@testing-library/user-event": "^7.1.2",
     "@types/jest": "^24.0.0"
   },
+  "resolutions": {
+    "@types/react": "16.9.43"
+  },
   "eslintConfig": {
     "extends": "react-app"
   },
