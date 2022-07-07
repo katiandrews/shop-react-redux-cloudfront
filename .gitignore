@@ -26,3 +26,6 @@ yarn-error.log*
 /.idea
 .vscode
 .nvmrc
+
+# package directories
+jspm_packages
